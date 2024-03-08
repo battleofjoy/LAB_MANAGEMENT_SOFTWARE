@@ -1,0 +1,1 @@
+2023-04-25 14:04:55.257504: BrowserUSB_command: [WinError 10054] An existing connection was forcibly closed by the remote host
